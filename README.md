@@ -42,29 +42,5 @@ STEP 5:Include Necessary parameters in each functions.
 ![Screenshot 2024-11-29 134541](https://github.com/user-attachments/assets/0e183a13-bf43-48c3-9990-1178b9eeea0b)
 ![Screenshot 2024-11-29 134555](https://github.com/user-attachments/assets/8852a644-4929-47ee-94fd-56047814d461)
 ![Screenshot 2024-11-29 134635](https://github.com/user-attachments/assets/9a64144d-323c-43fa-b533-a70058ec87c3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
 # Result:
  Include your result here
